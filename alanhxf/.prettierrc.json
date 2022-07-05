@@ -1,0 +1,9 @@
+{
+  "singleQuote": true, // 使用单引号
+  "seme": true, // 句尾添加分号
+  "tabWidth": 2, // 缩进
+  "TrailingCooma": "all", // 在对象或数组最后一个元素后面加逗号
+  "bracketSpacing": true, // 在对象，数组括号与文字之间加空格 "{ foo: bar }"
+  "printWidth": 100, // 超过最大值换行
+  "arrowParens":"always" // 箭头函数的参数总是有括号
+}
